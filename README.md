@@ -1,2 +1,2 @@
 # curso-tkinter
-Curso de Interface Gráfica com TKinter do FreeCodeCamp
+Curso de Interface Gráfica com TKinter do codemy.com
